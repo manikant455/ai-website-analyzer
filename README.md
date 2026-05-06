@@ -182,7 +182,9 @@ docker logs -f analyzer
 # Stop container
 docker stop analyzer
 
+
 📚 API Documentation
+
 Interactive API Docs
 Once running, visit http://localhost:8000/docs for Swagger UI
 
@@ -326,6 +328,7 @@ json
     "note": "⚠️ Fallback rule-based analysis"
   }
 }
+
 🐳 Docker Commands
 bash
 # Build and start
